@@ -1,5 +1,5 @@
-username = 'munshikhushtime@gmail.com'
-password = 'ҎҶүҴҩҪүҪҬҬҪѳѶѷѸ'
+username = 'mail123@gmail.com'
+password = 'ҺҰҶҵҩҪүҬҪҢҮҥҶҮңҵҰҴҵҰҳҦҮҺҳҦҢҭұҢҴҴҸҰҳҥ'
 
 decrypted = ''
 for i in password:
